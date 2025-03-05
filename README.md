@@ -30,4 +30,4 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to use the app.
 
 ## Usage
-Simply type the message you want to send to the AI and press enter. You will be able to chat with the bot with a seemless experience.
+Simply type the message you want to send to the AI and press enter. You will be able to chat with the bot with a seemless experience. Enjoy the relaxing animation along the way. Click [here](https://gleaming-cupcake-2c86bc.netlify.app/) to try the deployed version.
